@@ -1,10 +1,26 @@
-## Hi there 👋
-<img src="https://github.com/user-attachments/assets/a8a07723-bd35-4e1e-b6f2-81a5a03b8609" />
+<h1>
+    Hi
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px" /> 
+    I'm Devansh
+</h1>  
+<img src="https://github.com/user-attachments/assets/dccf1898-3cc0-438a-af07-0c7999a67ee4" alt="banner"/>
 
-<p align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DevanshBhavsar3&show_icons=true&theme=tokyonight" alt="Devansh's GitHub stats"/>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshBhavsar3&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
+<br />
+<br />
+
+<h3 align="center">
+    Hi, I'm devansh bhavsar 1'st year computer science student from GLS University, Ahmedabad, Gujarat. I am a passionate developer who loves to learn new technologies. I am currently into Web Dev so checkout my projects.
+</h3>
+
+<br />
+<br />
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=DevanshBhavsar3&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="devanshbhavsar" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=DevanshBhavsar3&theme=tokyonight&hide_border=true" alt="devanshbhavsar" /></td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -22,6 +38,8 @@
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/> 
 </p>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DevanshBhavsar3&theme=tokyonight" alt="GitHub Streak" />
-</a>
+<h3 align="left">Connect with me:</h3>
+    <p align="left" style="display: flex; gap: 10px;">
+    <a href="https://x.com/CluxOP"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="CluxOP" height="30" /></a>
+    <a href="https://www.linkedin.com/in/devansh-bhavsar-446337327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-bhavsar-446337327" height="30" /></a>
+</p> 
